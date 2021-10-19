@@ -20,4 +20,4 @@ spec:
         - |
           objectName: ingress-internal-aks-ingress-contoso-com-tls
           objectType: secret
-    tenantId: 
+    tenantId: 72f988bf-86f1-41af-91ab-2d7cd011db47
